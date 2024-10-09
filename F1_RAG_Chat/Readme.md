@@ -15,7 +15,6 @@ This Formula 1 RAG Chat App is an interactive question-answering system that lev
 - Integration with OpenAI's language models for natural language processing
 - Conversation history tracking for improved context awareness
 - Source citation for answers
-- Simulated streaming of responses for a more engaging user experience
 
 ## Technologies Used
 
@@ -30,8 +29,8 @@ This Formula 1 RAG Chat App is an interactive question-answering system that lev
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/formula1-rag-chat-app.git
-   cd formula1-rag-chat-app
+   git clone https://github.com/rushijoshi1995/GenAI.git
+   cd F1_RAG_Chat
    ```
 
 2. Install the required packages:
